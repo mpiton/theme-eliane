@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pa",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 105.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/montendre/wp-content/themes/eliane/index.php",
+		"/C/wamp64/www/montendre/wp-content/themes/eliane/css/mdb.css",
+		"/C/wamp64/www/college/wp-content/themes/eliane/function.php",
+		"/C/wamp64/www/drupal/themes/bootstrap_barrio/eliane/templates/_page.html.twig",
+		"/C/wamp64/www/drupal/themes/bootstrap_barrio/templates/layout/page.html.twig",
+		"/C/wamp64/www/drupal/themes/bootstrap/starterkits/Eliane/css/style.css",
+		"/C/wamp64/www/drupal/themes/Eliane/config/install/Eliane.settings.yml",
+		"/C/wamp64/www/drupal/themes/Eliane/Eliane.theme",
+		"/C/wamp64/www/drupal/themes/bootstrap/docs/Theme-Settings.md",
+		"/C/wamp64/www/drupal/themes/bootstrap/config/install/bootstrap.settings.yml",
+		"/C/wamp64/www/drupal/themes/Eliane/Eliane.info.yml",
+		"/C/wamp64/www/drupal/themes/Eliane/config/schema/Eliane.schema.yml",
+		"/C/wamp64/www/drupal/themes/bootstrap/starterkits/Eliane/Eliane.theme",
+		"/C/wamp64/www/drupal/themes/bootstrap/docs/Getting-Started.md",
+		"/C/wamp64/www/drupal/themes/bootstrap/starterkits/Eliane/Eliane.starterkit.yml",
+		"/C/wamp64/www/drupal/themes/bootstrap/docs/README.md",
+		"/C/wamp64/www/drupal/themes/bootstrap/starterkits/Eliane/config/install/Eliane.settings.yml",
+		"/C/wamp64/www/drupal/themes/bootstrap/starterkits/Eliane/Eliane.libraries.yml",
+		"/C/wamp64/www/drupal/themes/bootstrap/README.md",
+		"/C/wamp64/www/drupal/themes/bootstrap/starterkits/Eliane/templates/README.md",
+		"/C/wamp64/www/montendre/wp-includes/css/dashicons.css",
+		"/C/wamp64/www/epiboot/index.html",
+		"/G/DL/mdbtheme/eliane/js/mdb.js",
+		"/G/DL/mdbtheme/eliane/css/style.min.css",
+		"/C/wamp64/www/epiboot/infrastructure.html",
+		"/C/wamp64/www/epiboot/presentation.html",
+		"/C/wamp64/www/epiboot/index.php",
+		"/G/DL/fichiers_source_javascript_fondamentaux/fichiers_source_javascript_fondamentaux/Chapitre02/02-09/myScript.js",
+		"/G/DL/fichiers_source_javascript_fondamentaux/fichiers_source_javascript_fondamentaux/Chapitre02/02-08/script.js",
+		"/G/DL/fichiers_source_javascript_fondamentaux/fichiers_source_javascript_fondamentaux/Chapitre02/02-07/myScript.js",
+		"/G/DL/fichiers_source_javascript_fondamentaux/fichiers_source_javascript_fondamentaux/Chapitre02/02-05/myScript.js",
+		"/G/DL/fichiers_source_javascript_fondamentaux/fichiers_source_javascript_fondamentaux/Chapitre02/02-06/script.js",
+		"/G/DL/fichiers_source_javascript_fondamentaux/fichiers_source_javascript_fondamentaux/Chapitre02/02-01/simple.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
